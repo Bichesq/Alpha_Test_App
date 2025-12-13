@@ -1,0 +1,7 @@
+fastapi
+boto3
+python-dotenv
+uvicorn
+pydantic==1.10.13
+email-validator
+
